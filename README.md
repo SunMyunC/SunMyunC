@@ -1,4 +1,10 @@
-## Hi there 👋
+## 안녕하세요, 프론트엔드 개발자 정선영입니다✨
+
+<img src="https://img.shields.io/badge/{뱃지에 표시할 텍스트}-{배경 색상}?style={스타일}&logo={로고 이름}&logoColor={로고 색상}">
+
+<!-- 예: PHP 배지 -->
+<img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
+
 
 <!--
 **SunMyunC/SunMyunC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
