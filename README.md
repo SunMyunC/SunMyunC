@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/{뱃지에 표시할 텍스트}-{배경 색상}?style={스타일}&logo={로고 이름}&logoColor={로고 색상}">
 
 <!-- 예: PHP 배지 -->
-<img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
+//<img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
 
 
 <!--
